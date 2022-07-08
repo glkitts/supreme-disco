@@ -1,6 +1,6 @@
 # SUPREME DISCO
-A collection of pretty cool html pages made by GK.
+HTML reports from GK.
 
 
 
-[57_RS_Analysis](./57_rseq.html)
+[57_rs](./57_rseq.html)
